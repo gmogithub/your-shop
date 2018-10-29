@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/yourshop.iml" filepath="$PROJECT_DIR$/yourshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yourshop-back/yourshop-back.iml" filepath="$PROJECT_DIR$/yourshop-back/yourshop-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yourshop-back/yourshop-back-web/yourshop-back-web.iml" filepath="$PROJECT_DIR$/yourshop-back/yourshop-back-web/yourshop-back-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/yourshop-front/yourshop-front.iml" filepath="$PROJECT_DIR$/yourshop-front/yourshop-front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yourshopadmin.iml" filepath="$PROJECT_DIR$/yourshopadmin.iml" />
     </modules>
   </component>
 </project>

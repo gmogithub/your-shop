@@ -6,12 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="yourshop-back-web" />
         <module name="yourshop-front" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="yourshop" target="1.5" />
       <module name="yourshop-admin" target="1.5" />
+      <module name="yourshop-back" target="1.5" />
+      <module name="yourshop-back-web" target="1.8" />
       <module name="yourshop-front" target="1.5" />
     </bytecodeTargetLevel>
   </component>
